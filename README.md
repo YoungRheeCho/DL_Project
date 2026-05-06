@@ -10,12 +10,12 @@ This project investigates the limitations of supervised learning models in netwo
 
 Using the **CICIDS2017 dataset** — which contains real network traffic labeled with various attack types including DDoS, DoS, PortScan, Brute Force, Web Attacks, and Botnet activity — I train and evaluate four models:
 
-| Model | Type |
-|---|---|
-| Random Forest | Supervised (Baseline) |
-| MLP | Supervised (Deep Learning) |
-| LSTM | Supervised (Sequential) |
-| Autoencoder | Unsupervised |
+| Model |
+|---|
+| Random Forest |
+| MLP |
+| LSTM |
+| Autoencoder |
 
 ## Experimental Design
 
