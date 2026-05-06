@@ -1,2 +1,5 @@
-# DL_Project
-Deep Learning Intro Project_Cyber Security
+# DL_Project: TEMP
+
+Student name: Cho, YoungRhee
+Title: temp
+Summary
